@@ -1,4 +1,4 @@
-package dio.me.ui.theme
+package dio.me.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
